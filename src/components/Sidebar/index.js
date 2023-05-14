@@ -63,7 +63,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/slobodan-gaji%C4%87-006bb8b8/"
+            href="https://www.linkedin.com/in/mojtaba-keshavarzi-561460195/"
             target="_blank"
             rel="noreferrer"
           >
@@ -76,7 +76,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/bobangajicsm"
+            href="https://github.com/mojtabakeshavarzi"
             target="_blank"
             rel="noreferrer"
           >
@@ -89,7 +89,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw"
+            href="https://www.facebook.com/profile.php?id=100025758308477"
             rel="noreferrer"
             target="_blank"
           >
@@ -101,7 +101,7 @@ const Sidebar = () => {
           </a>
         </li>
         <li>
-          <a href="skype:live:bobangajicsm" rel="noreferrer" target="_blank">
+          <a href="https://twitter.com/mojtabak98" rel="noreferrer" target="_blank">
             <FontAwesomeIcon
               icon={faTwitter}
               color="#4d4d4e"
